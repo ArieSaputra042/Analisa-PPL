@@ -1,4 +1,4 @@
-# analisa-ppl
+# analisis-ppl
 Matakuliah Analisis &amp; Perancangan Perangkat Lunak
 
 NIM   : 1811500042
